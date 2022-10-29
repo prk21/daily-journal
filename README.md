@@ -1,5 +1,5 @@
 # daily-journal
-A journaling website made using Bootstrap, Node.js and MongoDB 
+A journaling website made using Bootstrap, Node.js, Express.js and MongoDB 
 
 Preview:
 
